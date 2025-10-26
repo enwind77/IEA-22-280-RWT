@@ -19,7 +19,7 @@ True          RotStates       - Orient states in the rotating frame during linea
 ---------------------- GEOMETRY PARAMETER --------------------------------------
 1                      member_total - Total number of members (-)
 30                     kp_total    - Total number of key points (-) [must be at least 3]
-1 30                               - Member number; Number of key points in this member
+1 40                               - Member number; Number of key points in this member
         kp_xr                 kp_yr                 kp_zr             initial_twist    
          (m)                   (m)                   (m)                  (deg)        
  0.00000000000000e+00  0.00000000000000e+00 -8.07793566951278e-28  1.20000000000000e+01
